@@ -23,7 +23,7 @@ O objetivo principal foi utilizando as melhores práticas do React/Next.js e Typ
 
 ## 🔗 Link do Deploy Público
 
-**URL:** [https://lacrei-consultas-cecbu6vam-allissoncostas-projects.vercel.app/]
+**URL:** https://lacrei-consultas-cecbu6vam-allissoncostas-projects.vercel.app/
 
 ---
 ## ✨ Resultado Visual
